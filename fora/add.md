@@ -5,7 +5,7 @@ anchor: none
 
 # Add
 
-<div><post path="../" /></div>
+<div><post src="../" /></div>
 
 ## [Back](../)
 
