@@ -6,6 +6,6 @@ anchor: none
 
 ## [New post](./add)
 
-<div><list dataPath="./posts" dataPreview="true" dataType="post"></list></div>
+<div><list dataPath="./fora/posts" dataPreview="true" dataType="post"></list></div>
 
-<link rel="stylesheet" href="/main.css" />
+<link rel="stylesheet" href="./main.css" />
