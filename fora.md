@@ -1,6 +1,7 @@
 ---
 layout: forum
 anchor: none
+hide: true
 ---
 # Hello
 
