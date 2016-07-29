@@ -7,6 +7,6 @@ hide: true
 
 ## [New post](./add)
 
-<div><list dataPath="./fora/posts" dataPreview="true" dataType="post"></list></div>
+<div><list dataPath="./fora/posts" dataPreview="true" dataType="post" sortBy="bump"></list></div>
 
 <link rel="stylesheet" href="./main.css" />
