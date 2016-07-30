@@ -3,7 +3,7 @@ layout: forum
 anchor: none
 hide: true
 ---
-# Hello
+# Discuss
 
 ## [New post](./add)
 
