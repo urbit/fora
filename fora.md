@@ -1,11 +1,12 @@
 ---
 layout: forum
 anchor: none
+hide: true
 ---
-# Hello
+# Discuss
 
 ## [New post](./add)
 
-<div><list dataPath="./posts" dataPreview="true" dataType="post"></list></div>
+<div><list dataPath="./fora/posts" dataPreview="true" dataType="post" sortBy="bump"></list></div>
 
-<link rel="stylesheet" href="/main.css" />
+<link rel="stylesheet" href="./main.css" />

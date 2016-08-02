@@ -5,8 +5,8 @@ anchor: none
 
 # Add
 
-<div><post path="../" /></div>
+<div><post src="../" /></div>
 
 ## [Back](../)
 
-<link rel="stylesheet" href="/main.css" />
+<link rel="stylesheet" href="../main.css" />
