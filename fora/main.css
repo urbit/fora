@@ -71,3 +71,7 @@
 #body.forum .btn {
   text-transform: none;
 }
+
+#body.post img {
+  max-width: 100%;
+}
