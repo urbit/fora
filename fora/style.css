@@ -1,17 +1,12 @@
-#body.forum h1 { padding-bottom: 0; }
-#body.forum h2 { padding-bottom: 3rem; }
+#body.forum h1 {padding-bottom: 0; }
+#body.forum h2 {padding-bottom: 3rem; }
 
-#body.forum ul.list.post {
+#body.forum div.list.post {
   padding: 0;
 }
 
-#body.forum .list.post li {
-  list-style-type: none;
-  margin-bottom: 2rem;
-}
-
-#body.forum .list.post li p {
-  margin-bottom: .6rem;
+#body.forum .list.post .thread {
+  margin-bottom: 2rem
 }
 
 #body.forum .list.post .date,
@@ -22,7 +17,9 @@
   white-space: nowrap;
   margin-bottom: .6rem;
   line-height: 1rem;
+  padding: 0;
 }
+
 
 #body.forum .list.post .title {
   font-weight: 500;
@@ -32,7 +29,7 @@
   font-weight: 400;
 }
 
-#body.forum .list.post .continue,
+#body.forum .ship,
 #body.forum .list.post .author:before {
   display: none;
 }
@@ -75,3 +72,4 @@
 #body.post img {
   max-width: 100%;
 }
+
