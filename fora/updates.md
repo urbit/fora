@@ -15,13 +15,13 @@ If you're running an urbit, to post as your ship, [_Log In_](/~~/).
 <br />
 
 <nav>
-  <b class="subfora active">General</b>
-  <a class="subfora" href="../updates">Updates</a>
+  <a class="subfora" href="../general">General</a>
+  <b class="subfora active">Updates</b>
   <a class="subfora" href="../answers">Answers</a>
   <a class="subfora" href="../proposals">Proposals</a>
 </nav>
 
-Long-form Urbit discussion.
+What's happening in the Urbit community.
 
 <div class="link-next">
   <a href="./add">New post</a>
@@ -29,7 +29,7 @@ Long-form Urbit discussion.
 
 <br />
 
-<div><list dataPath="./general/posts" dataPreview="true" dataType="post" sortBy="bump"></list></div>
+<div><list dataPath="./updates/posts" dataPreview="true" dataType="post" sortBy="bump"></list></div>
 
 <link rel="stylesheet" href="../main.css" />
 
