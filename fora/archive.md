@@ -18,11 +18,11 @@ If you're running an urbit, to post as your ship, [_Log In_](/~~/).
   <a class="subfora" href="../general">General</a>
   <a class="subfora" href="../updates">Updates</a>
   <a class="subfora" href="../answers">Answers</a>
-  <b class="subfora active">Proposals</b>
-  <a class="subfora" href="../archive">Archive</a>
+  <a class="subfora" href="../proposals">Proposals</a>
+  <b class="subfora active">Archive</b>
 </nav>
 
-Urbit Proposals (UPs) and discussion.
+Fora archaeology from `~2017` and beyond.
 
 <div class="link-next">
   <a href="./add">New post</a>
@@ -30,7 +30,7 @@ Urbit Proposals (UPs) and discussion.
 
 <br />
 
-<div><list dataPath="./proposals/posts" dataPreview="true" dataType="post" sortBy="bump"></list></div>
+<div><list dataPath="./archive/posts" dataPreview="true" dataType="post" sortBy="bump"></list></div>
 
 <link rel="stylesheet" href="../main.css" />
 

@@ -19,6 +19,7 @@ If you're running an urbit, to post as your ship, [_Log In_](/~~/).
   <a class="subfora" href="../updates">Updates</a>
   <b class="subfora active">Answers</b>
   <a class="subfora" href="../proposals">Proposals</a>
+  <a class="subfora" href="../archive">Archive</a>
 </nav>
 
 Share your Urbit knowledge here, and ask questions.
